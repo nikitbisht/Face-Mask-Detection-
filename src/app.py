@@ -49,7 +49,7 @@ if mode == "Upload Image":
             
             st.markdown(
                 f"<h2 style='text-align: center; color: #FFFF00;'>"
-                f"Emotion detected: <span style='font-weight: bold; font-size: 48px;'>{mask_detect[y_pred]}</span> </h2>",
+                f"<span style='font-weight: bold; font-size: 48px;'>{mask_detect[y_pred]}</span> </h2>",
                 unsafe_allow_html=True,
             )
 
