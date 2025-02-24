@@ -12,7 +12,7 @@ This project uses **computer vision and deep learning** to detect whether a pers
 ## 🛠️ **Tech Stack**
 🔹 Python, OpenCV, TensorFlow/Keras  
 🔹 NumPy, Matplotlib, Pandas  
-🔹 Pre-trained CNN (e.g., MobileNetV2, VGG16)  
+🔹 ResNet50V2
 
 ## 📌 **Usage**
 ### 1️⃣ Install dependencies:
