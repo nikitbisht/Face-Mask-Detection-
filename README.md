@@ -26,7 +26,7 @@ python detect_mask.py
 ### 3️⃣ Use a webcam or image input for detection.
 
 ## 📷 **Demo**
-(![Mask Detection Demo](src/images/working.PNG))
+(![Mask Detection Demo](src/images/detected.PNG))
 
 ## 🔗 **Future Improvements**
 ✔️ Improve model accuracy with a larger dataset  
