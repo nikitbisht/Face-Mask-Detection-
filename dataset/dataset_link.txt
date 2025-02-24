@@ -1,0 +1,1 @@
+dataset link :- https://universe.roboflow.com/pyimagesearch/covid-19-pis/?ref=pyimagesearch
